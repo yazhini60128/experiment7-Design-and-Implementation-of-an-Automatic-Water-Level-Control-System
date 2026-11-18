@@ -176,6 +176,7 @@ GND  ---| GND                |
 ---
 
 ## Expected Output
+<img width="878" height="727" alt="WhatsApp Image 2026-11-18 at 11 44 39 AM" src="https://github.com/user-attachments/assets/8ecbaced-5ace-46f4-9e1b-03f28346cb76" />
 
 ### Low Water Level
 
